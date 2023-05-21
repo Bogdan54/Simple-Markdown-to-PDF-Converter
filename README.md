@@ -3,9 +3,9 @@
 This script converts Markdown files to PDF using Pandoc.
 
 ## Prerequisites
-• Linux operating system
-• Bash shell
-• Pandoc (Installation instructions provided below)
+* Linux operating system
+* Bash shell
+* Pandoc (Installation instructions provided below)
 
 ## Installation
 
@@ -23,15 +23,15 @@ This script converts Markdown files to PDF using Pandoc.
 
 4. Install Pandoc (if not already installed):
 
-• Ubuntu/Debian:
+* Ubuntu/Debian:
 >sudo apt update sudo apt install -y pandoc texlive-latex-base texlive-
 fonts-recommended texlive-fonts-extra texlive-latex-extra
 
-• Fedora:
+* Fedora:
 > sudo dnf install -y pandoc texlive-scheme-basic texlive-collection-
 fontsrecommended texlive-collection-latexrecommended
 
-• Arch Linux:
+* Arch Linux:
 > sudo pacman -Syu –needed –noconfirm pandoc texlive-core texlive-
 fontsextra texlive-latexextra
 
@@ -43,10 +43,10 @@ down_to_pdf.sh script.
 > ./markdown_to_pdf.sh
 
 3. Follow the on-screen prompts:
-• Enter the name of the Markdown file you want to convert (including the
+* Enter the name of the Markdown file you want to convert (including the
 extension).
-• The script will convert the Markdown file to PDF using Pandoc.
-• Enter converted PDF file will be saved in the same directory as the
+* The script will convert the Markdown file to PDF using Pandoc.
+* Enter converted PDF file will be saved in the same directory as the
 Markdown file.
 
 ## License
@@ -57,9 +57,10 @@ Contributions are welcome! If you find any issues or have suggestions for
 improvement, please feel free to submit a pull request.
 
 ## Acknowledgements
-• This script is inspired by the requirements of a Markdown to PDF conver-
+* This script is inspired by the requirements of a Markdown to PDF conver-
 sion workflow.
-• Thanks to the contributors who helped improve this script.
-Contact
+* Thanks to the contributors who helped improve this script.
+
+## Contact
 For any questions or feedback, please reach out to your-email@example.com.
 

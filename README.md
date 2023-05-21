@@ -62,5 +62,5 @@ sion workflow.
 * Thanks to the contributors who helped improve this script.
 
 ## Contact
-For any questions or feedback, please reach out to your-email@example.com.
+For any questions or feedback, please reach out to contact@bogdancapitanescu.xyz.
 
